@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+edge_log.csv
+.ipynb_checkpoints/
